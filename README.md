@@ -2,7 +2,7 @@
 
 This outlines all the requirements of the Software Requirements Specification document and any accompanying documents. This project is a work in progress and is updated during the course of the semester. Any instances of the word "you", "you're", etc. addresses the authors of these documents specifically.
 
-### [Software Requirements Specification](https://github.com/RasJazz/CS250/blob/47e0a58bda284ea1396178c2f51754bb33f3effc/Rasmussen%20J_SRS.pdf)
+### [Software Requirements Specification](https://github.com/RasJazz/CS250/blob/02ba6fc4187e4b8ecdc70ad0cb21218f8444e579/SRS.pdf)
 
 This is a Group submission assignment
 
@@ -14,7 +14,7 @@ The deliverable is a single electronic document that contains your software requ
 
 You're also required to submit THREE Use cases. Please, follow the example in the lecture notes covered in class lecture-use-cases.pdf
 
-### [Software Design Specification](https://github.com/RasJazz/CS250/blob/47e0a58bda284ea1396178c2f51754bb33f3effc/RasmussenJasmine_TestPlan/RasmussenJasmine_SDS.docx)
+### [Software Design Specification](https://github.com/RasJazz/CS250/blob/02ba6fc4187e4b8ecdc70ad0cb21218f8444e579/Test_Plan_Docs/SDS.pdf)
 
 The second deliverable in the course project (after the requirement specification) is the software design specification that describes the software organization and development plan. In contrast to the software requirements specification that is intended to be read by the client, the software design document is meant for the developers that implement the software components and later maintain the software product. Specifically, the software design specification document should describe the overall software architecture and implementation, at a level of detail similar to a UML Class Diagram. The classes, data structures, together with all major functions and their parameters should be specified.
 
@@ -45,14 +45,14 @@ Development plan and timeline
 * Partitioning of tasks
 * Team member responsibilities
 
-### [Verification Test Plan](https://github.com/RasJazz/CS250/blob/47e0a58bda284ea1396178c2f51754bb33f3effc/RasmussenJasmine_TestPlan/RasmussenJasmine_VerificationTestPlan.docx)
+### [Verification Test Plan](https://github.com/RasJazz/CS250/blob/02ba6fc4187e4b8ecdc70ad0cb21218f8444e579/Test_Plan_Docs/Verification_Test_Plan.pdf)
 
 In this assignment your group will outline a test plan for your software system you designed in Assignment 2, and add it to your Software Design Specification document. If necessary, you should update your original Software Design Specification with a new class diagram. The assignment is a continuation of your group project, meaning there is only one turning required per group, and you will continue with the same group and software system you have been working on for Assignment 2. The submission should be a link to a folder where you'll upload your testing plan document (txt, pdf, md) on your GitHub repository containing all required contents, as well as your Excel test case document. The required contents are detailed below. Do not make changes to your repository after the due date -- if any changes are made after the due date, the late policy will come into effect for the entire assignment.
 
 Note: to receive credit for the assignment, each group member must push at least one commit to the GitHub repository.
 * Software Design Specification: This is an up-to-date version of your Software Architecture Overview (UML Class Diagram + description) from Assignment 2. If you feel that your design could use further improvements, feel free to make additional changes.
 * Verification Test Plan: This section lays out test plans for verification.  In addition to the test itself, you will need to clearly explain your test. Be as detailed as possible, identifying what features of your design you are testing, what the test sets/vectors are, and how your selected test(s) cover the targeted feature(s).
-* [Test Case](https://github.com/RasJazz/CS250/blob/47e0a58bda284ea1396178c2f51754bb33f3effc/RasmussenJasmine_TestPlan/RasmussenJasmine_TestCases.xlsx) samples: Provide 10 test case samples using the Excel Test Case template 
+* [Test Case](https://github.com/RasJazz/CS250/blob/02ba6fc4187e4b8ecdc70ad0cb21218f8444e579/Test_Plan_Docs/Test_Cases_Spreadsheet.pdf) samples: Provide 10 test case samples using the Excel Test Case template 
 
 You are required to include at least two test sets for each of the three granularities discussed in class (unit, functional, system).
 If you feel that your current design already includes appropriate content for any of the requirements, you do not necessarily need to re-design or improve. However, please include the contents in your updated SRS document
