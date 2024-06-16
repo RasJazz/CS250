@@ -1,10 +1,8 @@
 # CS250 - Software Requirements Specification Document Project
 
-This outlines all the requirements of the Software Requirements Specification document and any accompanying documents. This project is a work in progress and is updated during the course of the semester. Any instances of the word "you", "you're", etc. addresses the authors of these documents specifically.
+This outlines all the requirements of the Software Requirements Specification document and any accompanying documents. This project is a work in progress and is updated during the course of the semester. Any instances of the word "you", "you're", etc. addresses the authors of these documents specifically. The below descriptions were the deliverable requirements for the assignment.
 
 ### [Software Requirements Specification](https://github.com/RasJazz/CS250/blob/02ba6fc4187e4b8ecdc70ad0cb21218f8444e579/SRS.pdf)
-
-This is a Group submission assignment
 
 For this assignment you will specify the requirements for a software system. Software systems are assigned during in-class interviews, and your information about your application to specify will come from in-class client interviews. In these interviews, you will ask your "client" (other students) about the application you are expected to specify.
 
@@ -12,7 +10,7 @@ The purpose of this assignment is to learn how to write a fairly complete and pr
 
 The deliverable is a single electronic document that contains your software requirement specification. Use the following template CS250-SRS Template to submit your document. Fill out the first few pages including Functional and non-functional requirements. This document will be used as bases for subsequent assignments (to complete sections of design, testing, ..etc.).
 
-You're also required to submit THREE Use cases. Please, follow the example in the lecture notes covered in class lecture-use-cases.pdf
+You're also required to submit THREE Use cases.
 
 ### [Software Design Specification](https://github.com/RasJazz/CS250/blob/02ba6fc4187e4b8ecdc70ad0cb21218f8444e579/Test_Plan_Docs/SDS.pdf)
 
